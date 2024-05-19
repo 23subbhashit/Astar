@@ -1,7 +1,7 @@
 ---
 - name: Deploy Spring Boot Astar Application
   hosts: localhost
-  remote_user: aryanpatel
+  remote_user: subbhashit
   tasks:
     - name: Deploy Docker image and Kubernetes resources for spemajorf
       become: false

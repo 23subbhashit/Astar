@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: backend-astar-container
-          image: aryanpatel111/astar-shortest-path-finder
+          image: 23subbhashit/astar-shortest-path-finder
           ports:
             - containerPort: 8082
