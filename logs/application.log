@@ -5452,3 +5452,12 @@ Unconditional classes:
 20:23:02.033 [http-nio-8082-exec-2] DEBUG org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor - Using 'application/json;q=0.8', given [image/avif, image/webp, image/apng, image/svg+xml, image/*, */*;q=0.8] and supported [application/json, application/*+json, application/json, application/*+json]
 20:23:02.034 [http-nio-8082-exec-2] DEBUG org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor - Writing [{timestamp=Sun May 19 20:23:02 IST 2024, status=404, error=Not Found, path=/favicon.ico}]
 20:23:02.071 [http-nio-8082-exec-2] DEBUG org.springframework.web.servlet.DispatcherServlet - Exiting from "ERROR" dispatch, status 404
+20:23:59.929 [SpringApplicationShutdownHook] DEBUG org.springframework.boot.availability.ApplicationAvailabilityBean - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+20:23:59.931 [SpringApplicationShutdownHook] DEBUG org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@16fb356, started on Sun May 19 20:22:47 IST 2024
+20:23:59.932 [SpringApplicationShutdownHook] DEBUG org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver$DefaultResolver - Found key 'spring.liveBeansView.mbeanDomain' in PropertySource 'systemProperties' with value of type String
+20:23:59.949 [SpringApplicationShutdownHook] DEBUG org.springframework.context.support.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+20:23:59.952 [SpringApplicationShutdownHook] DEBUG org.springframework.context.support.DefaultLifecycleProcessor - Bean 'webServerGracefulShutdown' completed its stop procedure
+20:23:59.952 [SpringApplicationShutdownHook] DEBUG org.springframework.context.support.DefaultLifecycleProcessor - Stopping beans in phase 2147483646
+20:24:00.383 [SpringApplicationShutdownHook] DEBUG org.springframework.context.support.DefaultLifecycleProcessor - Bean 'webServerStartStop' completed its stop procedure
+20:24:00.386 [SpringApplicationShutdownHook] DEBUG org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+20:24:00.387 [SpringApplicationShutdownHook] DEBUG org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
