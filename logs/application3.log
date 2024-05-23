@@ -1,0 +1,22 @@
+2024-05-21T20:24:19.371+05:30 [main] INFO  com.example.Astar.AstarApplication - Starting AstarApplication using Java 11.0.21 on DESKTOP-GO8MFI3 with PID 25900 (C:\Users\User\Desktop\MajorFinal\Astar\target\classes started by User in C:\Users\User\Desktop\MajorFinal\Astar)
+2024-05-21T20:24:19.397+05:30 [main] INFO  com.example.Astar.AstarApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-21T20:24:21.720+05:30 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2024-05-21T20:24:21.760+05:30 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2024-05-21T20:24:21.762+05:30 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-21T20:24:21.763+05:30 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2024-05-21T20:24:21.924+05:30 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-21T20:24:21.925+05:30 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2373 ms
+2024-05-21T20:24:22.808+05:30 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2024-05-21T20:24:22.847+05:30 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2024-05-21T20:24:22.873+05:30 [main] INFO  com.example.Astar.AstarApplication - Started AstarApplication in 4.868 seconds (JVM running for 11.656)
+2024-05-21T23:11:00.377+05:30 [main] INFO  com.example.Astar.AstarApplication - Starting AstarApplication using Java 11.0.21 on DESKTOP-GO8MFI3 with PID 29500 (C:\Users\User\Desktop\MajorFinal\Astar\target\classes started by User in C:\Users\User\Desktop\MajorFinal\Astar)
+2024-05-21T23:11:00.418+05:30 [main] INFO  com.example.Astar.AstarApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-21T23:11:03.973+05:30 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2024-05-21T23:11:04.035+05:30 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2024-05-21T23:11:04.038+05:30 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-21T23:11:04.039+05:30 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2024-05-21T23:11:04.393+05:30 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-21T23:11:04.393+05:30 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3795 ms
+2024-05-21T23:11:05.478+05:30 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2024-05-21T23:11:05.533+05:30 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2024-05-21T23:11:05.566+05:30 [main] INFO  com.example.Astar.AstarApplication - Started AstarApplication in 6.847 seconds (JVM running for 50.035)
